@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.math.MathContext;
 
 class Calculadora {
     public static void main(String[] args) {

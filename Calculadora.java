@@ -37,7 +37,7 @@ class Calculadora {
             System.out.println("La respuesta es: "+ Math.acos(a));
         }
         else if (opcion == 6){
-            System.out.println("La respuesta es: "+ Math.a1tan(a));
+            System.out.println("La respuesta es: "+ Math.tan(a));
         }
         else if (opcion == 7){
             System.out.println("La respuesta es: "+ Math.sinh(a));
